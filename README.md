@@ -120,7 +120,7 @@ I'm continuously improving my knowledge of backend architecture, databases, API 
 
 <div align="center">
 
-`Artificial Intelligence` `Retrieval-Augmented Generation` `Backend Development` `Full-Stack Development` `REST APIs` `Database Systems` `Software Engineering` `Cloud Computing`
+ `Retrieval-Augmented Generation` `Backend Development` `Full-Stack Development` `REST APIs` `Database Systems` `Software Engineering` 
 
 </div>
 
@@ -135,8 +135,8 @@ I'm continuously improving my knowledge of backend architecture, databases, API 
 I'm always interested in connecting with other developers, educators, and technology enthusiasts.
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:lubianojanrelle@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/janrelle-lubiano-69074b222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
