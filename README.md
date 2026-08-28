@@ -74,25 +74,6 @@ A full-stack AI application that helps users find information about medical assi
 
 <br/>
 
-### 🌐 CBR Public Website
-**Full-Stack Public Information Platform**
-
-A dynamic public information website connected to an administrative dashboard through REST APIs.
-
-`HTML` `CSS` `JavaScript` `Node.js` `REST API`
-
-- Dynamic data fetching
-- REST API integration
-- Search functionality
-- Pagination
-- Responsive UI
-- Modular frontend components
-- Cloud deployment
-
-**[🔗 View Repository](https://github.com/janrelle24/crbDashboard)** &nbsp;·&nbsp; **[🌐 Live Demo](https://crbdashboard.onrender.com/login.html)**
-
-<br/>
-
 ## 📚 Currently Learning
 
 ```
@@ -112,7 +93,7 @@ I'm continuously improving my knowledge of backend architecture, databases, API 
 - 🧠 Deepen my understanding of backend architecture
 - 📊 Learn more about databases and data structures
 - ☁️ Improve cloud deployment and DevOps skills
-- 📚 Continue growing as a software developer and educator
+- 📚 Continue growing as a software developer
 
 <br/>
 
