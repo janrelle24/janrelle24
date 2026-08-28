@@ -21,7 +21,6 @@ I build web applications, backend systems, and AI-powered solutions — turning 
 - 🤖 Exploring **Artificial Intelligence** and **RAG (Retrieval-Augmented Generation)** applications
 - 🌐 Building modern web applications with **JavaScript**
 - 🔧 Interested in API development, databases, and software architecture
-- ☁️ Learning and working with cloud deployment
 - 📚 Continuously improving my software engineering skills
 
 <br/>
@@ -92,7 +91,6 @@ I'm continuously improving my knowledge of backend architecture, databases, API 
 - 🤖 Develop practical AI-powered applications
 - 🧠 Deepen my understanding of backend architecture
 - 📊 Learn more about databases and data structures
-- ☁️ Improve cloud deployment and DevOps skills
 - 📚 Continue growing as a software developer
 
 <br/>
