@@ -2,13 +2,18 @@
 
 # Hi, I'm Janrelle Lubiano 👋
 
-### Computer Science Graduate · Full-Stack Developer · AI Enthusiast
+### Computer Science Graduate · Full-Stack Developer
 
-I build web applications, backend systems, and AI-powered solutions — turning ideas into practical software, from responsive interfaces to REST APIs and cloud deployments.
+I build web applications, backend systems, and AI-powered solutions, turning ideas into practical software, from responsive interfaces to REST APIs and cloud deployments.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,react,vite,tailwind,nodejs,express,mongodb,mysql,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=js,py,html,css,react,vite,tailwind,nodejs,express,postgres,supabase,mongodb,mysql,git,github,postman&perline=8" alt="Tech stack icons" />
+
+<br/><br/>
+
+<a href="mailto:lubianojanrelle@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/janrelle-lubiano-69074b222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -30,29 +35,52 @@ I build web applications, backend systems, and AI-powered solutions — turning 
 <table>
   <tr>
     <td><strong>Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=js,python,html,css" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,html,css" alt="Languages" /></td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend" /></td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" /></td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td><strong>Deployment</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=render,netlify" alt="Deployment" /></td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,postman" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman" alt="Tools" /></td>
   </tr>
 </table>
 
 <br/>
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
+
+### 🗄️ DevVault
+**Personal Documentation Hub for Development Guides, Commands & Troubleshooting Notes**
+
+A full-stack, installable web app for storing and organizing setup guides, commands, and troubleshooting notes, with secure authentication, an admin dashboard, and an offline mode that keeps your notes available without a connection.
+
+`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `PostgreSQL` `Supabase` `JWT` `PWA`
+
+- Categories, tags, and search with a `Ctrl + K` shortcut
+- JWT authentication with email OTP verification and password reset
+- Bookmarks and recently viewed history
+- Offline mode with IndexedDB and an automatic bookmark sync queue
+- Installable Progressive Web App (PWA)
+- Admin dashboard for managing documents and user roles
+- Light and dark themes with a responsive layout
+
+**[🔗 View Repository](https://github.com/janrelle24/devVault)** &nbsp;·&nbsp; **[🌐 Live Demo](https://devvault-stack.netlify.app/)**
+
+<br/>
 
 ### 🤖 E-Tanong AI
 **AI-Powered Medical Requirements & Public Assistance Inquiry Assistant**
@@ -64,22 +92,17 @@ A full-stack AI application that helps users find information about medical assi
 - AI-powered conversational interface
 - Retrieval-Augmented Generation (RAG)
 - PDF-based knowledge base
-- REST API backend
-- Semantic information retrieval
-- Responsive UI
+- Semantic information retrieval with embeddings
+- REST API backend with rate limiting
+- Responsive UI with dark mode
 - Cloud deployment
 
-**[🔗 View Repository](https://github.com/janrelle24/ai-inquiry-assistant)** &nbsp;·&nbsp; **[🌐 Live Demo]**
+**[🔗 View Repository](https://github.com/janrelle24/ai-inquiry-assistant)** &nbsp;·&nbsp; **[🌐 Live Demo](https://e-tanongai.netlify.app/)**
 
 <br/>
 
 ## 📚 Currently Learning
 
-```
-Backend Development → Node.js + Express → REST API Design
-       → MongoDB → Authentication & Security
-       → AI Integration → RAG & Vector Search → Cloud Deployment
-```
 
 I'm continuously improving my knowledge of backend architecture, databases, API development, AI integration, and scalable web applications.
 
@@ -99,13 +122,9 @@ I'm continuously improving my knowledge of backend architecture, databases, API 
 
 <div align="center">
 
- `Retrieval-Augmented Generation` `Backend Development` `Full-Stack Development` `REST APIs` `Database Systems` `Software Engineering` 
+`Retrieval-Augmented Generation` `Backend Development` `Full-Stack Development` `REST APIs` `Database Systems` `Software Engineering`
 
 </div>
-
-<br/>
-
-
 
 <br/>
 
@@ -114,11 +133,15 @@ I'm continuously improving my knowledge of backend architecture, databases, API 
 I'm always interested in connecting with other developers, educators, and technology enthusiasts.
 
 <p align="center">
-  <a href="mailto:lubianojanrelle@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/janrelle-lubiano-69074b222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:lubianojanrelle@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/janrelle-lubiano-69074b222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- Add your portfolio when it's ready:
+  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  -->
 </p>
 
 <div align="center">
-<i>Building, learning, and improving — one project at a time. 🚀</i>
+
+*Building, learning, and improving, one project at a time. 🚀*
+
 </div>
