@@ -135,9 +135,8 @@ I'm always interested in connecting with other developers, educators, and techno
 <p align="center">
   <a href="mailto:lubianojanrelle@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/janrelle-lubiano-69074b222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- Add your portfolio when it's ready:
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  -->
+  <a href="https://v2-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  
 </p>
 
 <div align="center">
